@@ -7,7 +7,7 @@ First upload the JavIN.java file in your project folder, then, open the JavIN fi
 As you will see, in the JavIN file the package looks like this:
 
 ```java
-package //!! Insert your package name here !!
+package //!! Insert your package name here !!;
 ```
 
 You will need to modify that with the name of YOUR package.
