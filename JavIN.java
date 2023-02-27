@@ -1,4 +1,4 @@
-package javin;
+package //!! Insert the name of your package here !!;
 
 //Imports
 import java.util.Scanner;
